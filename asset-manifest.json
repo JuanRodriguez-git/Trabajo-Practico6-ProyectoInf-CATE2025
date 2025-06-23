@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Trabajo-Practico6-ProyectoInf-CATE2025/static/css/main.e6c13ad2.css",
+    "main.js": "/Trabajo-Practico6-ProyectoInf-CATE2025/static/js/main.d7ee1fab.js",
+    "static/js/453.529bd6d2.chunk.js": "/Trabajo-Practico6-ProyectoInf-CATE2025/static/js/453.529bd6d2.chunk.js",
+    "index.html": "/Trabajo-Practico6-ProyectoInf-CATE2025/index.html",
+    "main.e6c13ad2.css.map": "/Trabajo-Practico6-ProyectoInf-CATE2025/static/css/main.e6c13ad2.css.map",
+    "main.d7ee1fab.js.map": "/Trabajo-Practico6-ProyectoInf-CATE2025/static/js/main.d7ee1fab.js.map",
+    "453.529bd6d2.chunk.js.map": "/Trabajo-Practico6-ProyectoInf-CATE2025/static/js/453.529bd6d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d7ee1fab.js"
+  ]
+}
